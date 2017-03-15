@@ -1,5 +1,5 @@
 ## Framework para Pruebas Automáticas
-Tecnologías Utilizadas: `Lenguaje Ruby`, `Self-Modification`, `Reflection`
+Tecnologías Utilizadas: `Lenguaje Ruby`, `Ruby on Rails`, `Self-Modification`, `Reflection`
 Sin Bases de Datos
 
 Permite hacer pruebas sobre aplicaciones para probar que anden correctamente y no contengan fallos.
